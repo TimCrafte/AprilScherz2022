@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body{
+    background:url('https://cdn.discordapp.com/attachments/838107006538612776/957255005524602890/Background.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow:hidden;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    padding: 20px 70px;
+    color:rgb(80, 79, 79);
+    font-size: 70px;
+}
+
+.jetzt_kaufen{
+    padding: 20px 70px;
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: 400px;
+    right: -150px;
+    
+}
+
+.pic1{
+    padding: 20px 70px;
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: 100px;
+    right: -500px;
+}
+
+.gefunden{
+    padding: 20px 70px;
+    color:rgb(4, 0, 255);
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: -6000px;
+    right: -500px;
+}
+
+.pic2{
+    padding: 20px 70px;
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: -509px;
+    right: -1000px;
+}
+
+.jetzt_kaufen2{
+    padding: 20px 70px;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: 510px;
+    right: -250px;
+
+}
+
+.who{
+    padding: 20px 70px;
+    color: black;
+    font-size: 20px;
+    align-items: center;
+    height:60%;
+    width:100%;
+    position:absolute;
+    top: 400px;
+    right: 100px;
+}
